@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d4d4ee;
+  border: 20px solid #232451;
+  font-family: sans-serif;
+}
+img {
+  margin-left: 400px;
+  margin-top: 150px;
+  height: 400px;
+  width: 350px;
+  border-radius: 40%;
+}
+.cont1 {
+  display: flex;
+  align-items: center;
+  gap: 120px;
+}
+.heading {
+  margin-top: 150px;
+}
+.date {
+    text-align: end;
+}
+.mainhead {
+    margin-left: 400px;
+    font-size: 80px;
+}
+.txt1 {
+    line-height: 26px;
+    text-align: justify;
+    max-width: 850px;
+    margin-left: 400px;
+}
+.bio {
+    margin-left: 400px;
+}
+ul {
+    margin-left: 400px;
+}
+.list {
+    line-height: 30px;
+    font-weight: bolder;
+}
+footer {
+    margin: 50px 0px;
+}
+footer p {
+    margin-left: 1100px;
+}
+.wiki {
+    text-decoration: none;
+}
+.wiki:hover {
+    text-decoration: underline;
+}
